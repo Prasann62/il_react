@@ -1,0 +1,74 @@
+{
+  "post": [
+    {
+      "id": "5",
+      "name": "Prasanna ",
+      "email": "prasannakumar@gmail.com",
+      "phone": "08608144060",
+      "dob": "2005-04-28",
+      "gnd": "false",
+      "cor": "B.Sc",
+      "add": "North Street "
+    },
+    {
+      "id": "6",
+      "name": "Prasanna Kumar",
+      "email": "prasannakumar95657@gmail.com",
+      "phone": "08608144068",
+      "dob": "2025-09-06",
+      "gnd": "false",
+      "cor": "B.Sc",
+      "add": "North Street palamadu"
+    },
+    {
+      "id": "6",
+      "name": "Prasanna Kumar",
+      "email": "prasannakumar95657@gmail.com",
+      "phone": "08608144068",
+      "dob": "2025-09-30",
+      "gnd": "male",
+      "cor": "BCA",
+      "add": "North Street palamadu"
+    },
+    {
+      "id": "8",
+      "name": "Prasanna Kumar",
+      "email": "prasannakumar95657@gmail.com",
+      "phone": "08608144068",
+      "dob": "2025-09-30",
+      "gnd": "male",
+      "cor": "BCA",
+      "add": "North Street palamadu"
+    },
+    {
+      "id": "7",
+      "name": "Prasanna Kumar",
+      "email": "prasannakumar95657@gmail.com",
+      "phone": "08608144068",
+      "dob": "2025-09-29",
+      "gnd": "male",
+      "cor": "BCA",
+      "add": "North Street palamadu"
+    },
+    {
+      "id": "7",
+      "name": "Prasanna Kumar",
+      "email": "prasannakumar95657@gmail.com",
+      "phone": "08608144068",
+      "dob": "2025-09-29",
+      "gnd": "male",
+      "cor": "BCA",
+      "add": "North Street palamadu"
+    },
+    {
+      "id": "9",
+      "name": "ila",
+      "email": "ila@gmail.com",
+      "phone": "08608144068",
+      "dob": "2005-01-20",
+      "gnd": "female",
+      "cor": "B.Sc",
+      "add": "North Street paramakuddi"
+    }
+  ]
+}
